@@ -1,3 +1,5 @@
 /venv
-/sounds/
+/sounds/*
+!/sounds/.gitkeep
+
 
